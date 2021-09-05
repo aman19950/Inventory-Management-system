@@ -14,3 +14,8 @@ This repository having code regarding the real life problem of Inventory Managem
 
 # ABOUT AUTHOR:
 My name is Aman Gautam I have 2 year experience as software developer 
+
+# Instruction
+IMS.ipynb -- having code execute the file at once enter the product details for adding new product and enter the product id and quantity for purchasing the product
+record.json --- contains the record of products in json format
+sales.jso -- contains the sales record after purchasing the product
